@@ -22,5 +22,9 @@ document.addEventListener("DOMContentLoaded", function() {
 	}
 
 buttonListen("http://first-ajax-api.herokuapp.com",'#step12')
-buttonListen("http://first-ajax-api.herokuapp.com/ping",'#step3456')
+buttonListen("http://first-ajax-api.herokuapp.com/pong",'#step3456')
+buttonListen("http://first-ajax-api.herokuapp.com/count",'#step7' )
 });
+
+
+done 38466
