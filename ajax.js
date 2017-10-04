@@ -22,4 +22,5 @@ document.addEventListener("DOMContentLoaded", function() {
 	}
 
 buttonListen("http://first-ajax-api.herokuapp.com",'#step12')
+buttonListen("http://first-ajax-api.herokuapp.com/ping",'#step3456')
 });
