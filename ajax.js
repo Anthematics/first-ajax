@@ -1,5 +1,13 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-  /* Your code goes here */
+$.ajax({
+	url:'/',
+	method: 'GET',
+	data: ,
+	datatype: 'TEXT',
+
+})
+
+});
 
 });
